@@ -13,13 +13,13 @@ export default function Root() {
     return (
         <>
         
-        <h1>Welcome to my website</h1>
+        <h1>Welcome to my Counter App</h1>
         <p>
             Hello check out my <Link to="/counter">counter app</Link>
         </p>
         <div>
             <p>
-                You can also check out our 404 page by clicking on this link that directs you to an invalid path <Link to="/count">404 Page</Link>
+                You can also check out my 404 page by clicking on this link that directs you to an invalid path <Link to="/count">404 Page</Link>
             </p>
             <h2>You can test Error Boundary here</h2>
         
